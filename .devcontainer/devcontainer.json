@@ -2,9 +2,9 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node
 // -
 {
-    "name": "docs.github.com",
+    "name": "vscode.com",
     "build": {
-        "dockerfile": "Dockerfile",
+        "dockerfile": "Farrah Gil Pancho",
         // Update 'VARIANT' to pick a Node version
         "args": { "VARIANT": "20" }
     },
@@ -62,7 +62,7 @@
     "updateContentCommand": "git clone https://github.com/github/rest-api-description.git",
 
     // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-    "remoteUser": "node",
+    "remoteUser": "Farrah Gil Pancho",
 
     "hostRequirements": {
         "memory": "8gb"
